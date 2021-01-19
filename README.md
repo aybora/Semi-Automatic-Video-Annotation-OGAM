@@ -8,3 +8,4 @@ Detailed README files can be found in the folders.
 
 Dataset link: http://poseidon.csd.auth.gr/LAB_PROJECTS/MULTIDRONE/AUTH_MULTIDRONE_Dataset.html
 
+Related paper: https://arxiv.org/abs/2101.06977
